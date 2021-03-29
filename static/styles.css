@@ -1,0 +1,24 @@
+body {
+  background-color: rgba(0, 0, 0, 0.0);
+  margin: 0px auto;
+  overflow: hidden;
+}
+
+#widget-container2 {
+  min-height: 28vh;
+}
+
+livelike-chat {
+  max-height: 67vh;
+  overflow-y: scroll;
+  background-color: rgba(0, 0, 0, 0.70);
+  color: #FFFFFF;
+}
+
+livelike-chat-composer {
+  color: #000000;
+}
+
+livelike-vote-count {
+  display: none;
+}

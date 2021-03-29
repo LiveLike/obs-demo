@@ -1,0 +1,34 @@
+body {
+  background-color: rgba(0, 0, 0, 0.0);
+  margin: 0px auto;
+  overflow: hidden;
+}
+
+#widget-container2 {
+  min-height: 28vh;
+}
+
+livelike-chat {
+  max-height: 48vh;
+  overflow-y: scroll;
+  background-color: rgba(0, 0, 0, 0.70);
+  color: #FFFFFF;
+}
+
+livelike-chat-composer {
+  display: none !important;
+}
+
+.tigers {
+  background-color: #FFFFFFCC;
+  color: #E46E2C;
+}
+
+.tide {
+  background-color: #FFFFFFCC;
+  color: #9E1B32;
+}
+
+livelike-vote-count {
+  display: none;
+}
